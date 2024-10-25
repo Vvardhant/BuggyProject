@@ -1,8 +1,15 @@
 Developed a semi-autonomous buggy using Arduino UNO and various sensors for obstacle detection and navigation.
 
-Objective: To create a reliable navigation system for the buggy, enabling it to navigate through a predefined path while avoiding obstacles.
-Hardware Used: Arduino UNO, ultrasonic sensors, infrared sensors, and motor driver.
+Objective: To demonstrate control of DC Motor using forward, backward, left, right turn motion and clock-wise/anti clock- wise rotation.
+Hardware Used: Arduino Microcontroller, USB cable, Nvis 3302ARD RoboCar
 Software Used: Arduino IDE.
+THEORY:  
+Nvis 3302ARD RoboCar is an electro-mechanical platform with the capability of sensing the environment, processing the data, and acting according to the preprogrammed sequence. 
+It is a miniature prototype car powered by batteries whose motion is controlled by microcontroller. 
+Various Sensors can be interfaced like IR (Infrared) Sensor, Ultrasonic Sensor, Analog Sensor, and many more. 
+It is a multitasking Robocar that can perform actions such as line follower, obstacle detection  with wireless operation with DC motor drive. 
+Robocar displays all action on LCD. Nvis 3302ARDRoboCar is a Robot designed for Robotics students. It will help them to get comfortable with the world of Robotics and Embedded Systems. 
+We can design user defined functions in the Arduino IDE to make the buggy move in our own specified directions like left, right, forward, backward, clockwise and anti clockwise by setting the pins 5, 6, 7 ,8 on Nvis 3302ARD RoboCar either HIGH/LOW. 
 Key Features:
 Implemented ultrasonic sensors for distance measurement, enabling the buggy to detect obstacles in real-time.
 Utilized infrared sensors for line tracking, allowing the buggy to follow a designated path.
