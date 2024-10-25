@@ -1,0 +1,10 @@
+Developed a semi-autonomous buggy using Arduino UNO and various sensors for obstacle detection and navigation.
+
+Objective: To create a reliable navigation system for the buggy, enabling it to navigate through a predefined path while avoiding obstacles.
+Hardware Used: Arduino UNO, ultrasonic sensors, infrared sensors, and motor driver.
+Software Used: Arduino IDE.
+Key Features:
+Implemented ultrasonic sensors for distance measurement, enabling the buggy to detect obstacles in real-time.
+Utilized infrared sensors for line tracking, allowing the buggy to follow a designated path.
+Programmed the buggy to autonomously adjust its course based on sensor input, demonstrating effective data integration and control logic.
+Result: Achieved successful navigation through a predefined path, with enhanced obstacle avoidance capabilities, showcasing strong problem-solving and technical skills relevant to automotive engineering.
