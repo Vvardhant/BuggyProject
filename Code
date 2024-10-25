@@ -1,6 +1,6 @@
-CODE : 
+// CODE : 
 
- a) To control brightness of a single LED :- 
+// a) To control brightness of a single LED :- 
 
 int bright=0; 
 
@@ -34,7 +34,7 @@ void loop()
 
 } 
 
-b) To control brightness of a multiple LEDs :- 
+// b) To control brightness of a multiple LEDs :- 
 
 int fade; 
 
@@ -91,7 +91,7 @@ void loop()
 
 
 
-c) To control buggy for forward, backward, left, right turn motion and clock-wise/anti clock- wise rotation :- 
+// c) To control buggy for forward, backward, left, right turn motion and clock-wise/anti clock- wise rotation :- 
 
 
 void forward() 
